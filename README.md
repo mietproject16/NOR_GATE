@@ -1,6 +1,6 @@
 # NOR_GATE
-## REG NUM :
-## NAME :
+## REG NUM :25019176
+## NAME :ARUN M
 ## EXPERIMENT 2.b Design CMOS NOR gate and perform Transient and Operating Point (OP) analysis.
 
 ## Aim:To design CMOS NOR gate and performTransient and Operating Point (OP) analysis.
@@ -58,7 +58,8 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the transient automatically will be popped up along file. 
 
 
-## Waveforms: 
+## Waveforms:
+![WhatsApp Image 2025-12-19 at 8 55 34 AM](https://github.com/user-attachments/assets/4281aed4-9fe8-4857-a3df-b24b7e8665b0)
 
 ## RESULT:
 Design and Transient analysis of CMOS NOR gate successfully verified.
